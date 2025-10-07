@@ -1,0 +1,5 @@
+label,total,negative,positive,pos_ratio,imbalance_ratio
+SSD,502,378,124,24.7%,1:3.0
+MDD,502,402,100,19.9%,1:4.0
+Panic,502,456,46,9.2%,1:9.9
+GAD,502,339,163,32.5%,1:2.1
